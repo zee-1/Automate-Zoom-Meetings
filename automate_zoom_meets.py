@@ -11,10 +11,6 @@ from selenium.webdriver.firefox.options import Options
 import time
 Name = "GOD"                        #Place your name here
 Roll_Num = "202259"
-
-goole_UID = "zaid.khan21800@gmail.com"
-passkey   = "Secretpassword!"
-
                 #Place you roll number or anyhting you uuse for marking attendance
 meets = ["https://us04web.zoom.us/j/73396851919?pwd=zVblWoH2Xe3o8QlapwdEVCWpRtlxZH.1"]           #Add classs link here "URL1","URL2"...so on
 timings = ["08:42"]                                                                             #Add timing here in 24hr format "8:00","12:00"... so on
